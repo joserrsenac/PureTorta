@@ -44,7 +44,7 @@ Note: main.js, All Default Scripting Languages For This Theme Included In This F
 /*----------------------------------------*/
     jQuery('.hb-menu nav').meanmenu({
         meanMenuContainer: '.mobile-menu',
-        meanScreenWidth: "1201"
+        meanScreenWidth: "1202"
     })
  /*----------------------------------------*/
  /*  02. Header Dropdown
